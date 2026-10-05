@@ -48,7 +48,7 @@ void draw() {
       {
           //your code here
           fill(175,175,0);
-          square(myX, myY, 50);
+          rect(myX, myY, 50,50);
           fill (0);
         //for(int d = 40; d <= 500; d = d + 80)
         
